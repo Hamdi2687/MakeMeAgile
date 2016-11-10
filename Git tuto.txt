@@ -1,0 +1,14 @@
+git tuto
+git init initial repository
+git status status of repository
+
+git add test.txt 
+git add '*.txt'
+
+git status
+
+git commit -m "test you idiot"
+
+git remote add MakeMeAgile https://github.com/Hamdi2687/MakeMeAgile.git
+
+git push -u MakeMeAgile master
